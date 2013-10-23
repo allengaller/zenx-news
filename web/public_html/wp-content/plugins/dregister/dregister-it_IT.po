@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dregister 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-14 14:57+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ezio Lanza - Juzaam <webmaster@juzaam.com>\n"
+"Language-Team: Ezio Lanza - Juzaam <eziolanza@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: F:\\web\\sismpa2\\wp-content\\plugins\\dregister\n"
+"X-Poedit-SearchPath-0: F:\\web\\sismpa2\\wp-content\\plugins\\dregister\n"
+
+#: F:\web\sismpa2\wp-content\plugins\dregister/ajax_options_add.php:14
+#: F:\web\sismpa2\wp-content\plugins\dregister/ajax_options_refresh.php:15
+#: F:\web\sismpa2\wp-content\plugins\dregister/ajax_sub_add.php:14
+msgid "<p><strong>ERROR:</strong> You must log in first.</p>"
+msgstr "<p><strong>ERRORE:</strong> Devi effettuare l'accesso.</p>"
+
+#: F:\web\sismpa2\wp-content\plugins\dregister/ajax_options_add.php:20
+#: F:\web\sismpa2\wp-content\plugins\dregister/ajax_options_refresh.php:21
+#: F:\web\sismpa2\wp-content\plugins\dregister/ajax_sub_add.php:20
+msgid "<p><strong>ERROR:</strong> You don't have administrator rights to modify registration options.</p>"
+msgstr "<p><strong>ERRORE:</strong> Non hai i diritti amministrativi necessari.</p>"
+
+#: F:\web\sismpa2\wp-content\plugins\dregister/ajax_options_add.php:27
+#: F:\web\sismpa2\wp-content\plugins\dregister/options.php:50
+#: F:\web\sismpa2\wp-content\plugins\dregister/inc/options_list.php:13
+#: F:\web\sismpa2\wp-content\plugins\dregister/inc/options_list.php:30
+msgid "required"
+msgstr "obbligatorio"
+
+#: F:\web\sismpa2\wp-content\plugins\dregister/ajax_options_update.php:16
+msgid "<b>ERROR</b>: You must log in first."
+msgstr "<b>ERRORE</b>: Devi effettuare l'accesso."
+
+#: F:\web\sismpa2\wp-content\plugins\dregister/ajax_options_update.php:21
+msgid "<b>ERROR</b>: You don't have administrator rights to modify registration options."
+msgstr "<b>ERROR</b>: Non hai i diritti amministrativi necessari."
+
+#: F:\web\sismpa2\wp-content\plugins\dregister/ajax_options_update.php:41
+msgid "<b>ERROR</b>: You cannot leave any blank field name."
+msgstr "<b>ERROR</b>: Non e' possibile lasciare vuoto il nome del campo."
+
+#: F:\web\sismpa2\wp-content\plugins\dregister/ajax_options_update.php:78
+msgid "<b>ERROR</b>: Field \"<b>"
+msgstr "<b>ERRORE</b>: Il campo \"<b>"
+
+#: F:\web\sismpa2\wp-content\plugins\dregister/ajax_options_update.php:80
+msgid "</b>\" is already present. Try changing the name."
+msgstr "</b>\" è già presente. Prova a cambiare il nome."
+
+#: F:\web\sismpa2\wp-content\plugins\dregister/dregister.php:99
+msgid "<strong>ERROR</strong>: You must fill in the required field \""
+msgstr "<strong>ERRORE</strong>: Compilare il campo richiesto \""
+
+#: F:\web\sismpa2\wp-content\plugins\dregister/dregister.php:104
+msgid "<strong>ERROR</strong>: field \""
+msgstr "<strong>ERRORE</strong>: Il campo \""
+
+#: F:\web\sismpa2\wp-content\plugins\dregister/dregister.php:104
+msgid "\" only allows numbers."
+msgstr "\" accetta solo numeri."
+
+#: F:\web\sismpa2\wp-content\plugins\dregister/dregister.php:147
+msgid "First Name"
+msgstr "Nome"
+
+#: F:\web\sismpa2\wp-content\plugins\dregister/dregister.php:153
+msgid "Last Name"
+msgstr "Cognome"
+
+#: F:\web\sismpa2\wp-content\plugins\dregister/dregister.php:167
+#: F:\web\sismpa2\wp-content\plugins\dregister/dregister.php:176
+msgid "<i style=\"font-size:80%\"> not required</i>"
+msgstr "<i style=\"font-size:80%\"> facoltativo</i>"
+
+#: F:\web\sismpa2\wp-content\plugins\dregister/dregister.php:194
+msgid "<strong>ERROR</strong>: You must fill in the  field \"First Name\"."
+msgstr "<strong>ERRORE</strong>: Compilare il campo \"Nome\","
+
+#: F:\web\sismpa2\wp-content\plugins\dregister/dregister.php:198
+msgid "<strong>ERROR</strong>: You must fill in the  field \"Last Name\"."
+msgstr "<strong>ERRORE</strong>: Compilare il campo \"Cognome\","
+
+#: F:\web\sismpa2\wp-content\plugins\dregister/dregister.php:266
+#: F:\web\sismpa2\wp-content\plugins\dregister/dregister.php:284
+msgid "Required."
+msgstr "Obbligatorio."
+
+#: F:\web\sismpa2\wp-content\plugins\dregister/options.php:15
+msgid "Existing fields"
+msgstr "Campi esistenti"
+
+#: F:\web\sismpa2\wp-content\plugins\dregister/options.php:17
+msgid "Changes saved."
+msgstr "Modifiche salvate."
+
+#: F:\web\sismpa2\wp-content\plugins\dregister/options.php:24
+msgid "Require first name"
+msgstr "Richiedi Nome"
+
+#: F:\web\sismpa2\wp-content\plugins\dregister/options.php:28
+msgid "Require last name"
+msgstr "Richiedi Cognome"
+
+#: F:\web\sismpa2\wp-content\plugins\dregister/options.php:34
+msgid "Custom fields"
+msgstr "Campi personalizzati"
+
+#: F:\web\sismpa2\wp-content\plugins\dregister/options.php:40
+msgid "+ Add custom field"
+msgstr "+ Aggiungi campo personalizzato"
+
+#: F:\web\sismpa2\wp-content\plugins\dregister/options.php:52
+msgid "Save Changes"
+msgstr "Salva cambiamenti"
+
+#: F:\web\sismpa2\wp-content\plugins\dregister/config/globals.php:4
+msgid "Text input"
+msgstr "Testo alfanumerico"
+
+#: F:\web\sismpa2\wp-content\plugins\dregister/config/globals.php:5
+msgid "Numeric input"
+msgstr "Solo numeri"
+
+#: F:\web\sismpa2\wp-content\plugins\dregister/config/globals.php:6
+msgid "Radio"
+msgstr "Radio"
+
+#: F:\web\sismpa2\wp-content\plugins\dregister/inc/subfields_list.php:4
+msgid "+ add option"
+msgstr "+ aggiungi opzione"
+

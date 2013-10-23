@@ -1,0 +1,23 @@
+<div id="sharel">
+	<div class="share">
+		<ul id="share">
+			<li><a class="toshare" href="javascript:void(0);"title="分享" rel="nofollow"></a>
+				<div class="webs">
+					<span><a class="addfav rline" href="javascript:void(0);" onclick="addFavorite();return false; "title="添加到收藏夹" rel="nofollow" >收藏夹</a></span>
+					<span><a class="guge" href="javascript:location.href='http://www.google.com/bookmarks/mark?op=add&amp;bkmk='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title) "title="分享到谷歌书签" rel="nofollow" >谷歌书签</a></span>
+					<span><a class="qq rline" href="javascript:window.open('http://shuqian.qq.com/post?from=3&amp;title='+encodeURIComponent(document.title)+'&amp;uri='+encodeURIComponent(document.location.href)+'&amp;jumpback=2&amp;noui=1','favit','width=930,height=470,left=50,top=50,toolbar=no,menubar=no,location=no,scrollbars=yes,status=yes,resizable=yes');void(0) "title="分享到QQ书签" rel="nofollow">QQ书签</a></span>
+					<span><a class="sinat" href="javascript:(function(){window.open('http://v.t.sina.com.cn/share/share.php?title='+encodeURIComponent(document.title)+'&url='+encodeURIComponent(location.href)+'&source=bookmark','_blank','width=450,height=400');})()"title="分享到新浪微博" rel="nofollow">新浪微博</a></span>
+					<span><a class="baidu rline" href="javascript:u=location.href;t=document.title;c%20=%20&quot;&quot;%20+%20(window.getSelection%20? window.getSelection() : document.getSelection ? document.getSelection() : document.selection.createRange().text);var url=&quot;http://cang.baidu.com/do/add?it=&quot;+encodeURIComponent(t)+&quot;&amp;iu=&quot;+encodeURIComponent(u)+&quot;&amp;dc=&quot;+encodeURIComponent(c)+&quot;&amp;fr=ien#nw=1&quot;;window.open(url,&quot;_blank&quot;,&quot;scrollbars=no,width=600,height=450,left=75,top=20,status=no,resizable=yes&quot;); void 0 "title="分享到百度搜藏" rel="nofollow">百度搜藏</a></span>
+					<span><a class="qqt" href="javascript:void(0);" onclick="window.open('http://v.t.qq.com/share/share.php?title='+encodeURIComponent(document.title.substring(0,76))+'&url='+encodeURIComponent(location.href)+'&rcontent=','_blank','scrollbars=no,width=600,height=450,left=75,top=20,status=no,resizable=yes'); " title="转播到腾讯微博" rel="nofollow" >腾讯微博</a></span>
+					<span><a class="bai rline" href="javascript:location.href='http://bai.sohu.com/app/share/blank/add.do?link='+location.href "title="分享到白社会" rel="nofollow">白社会</a></span>
+					<span><a class="kaixin" href="javascript:d=document;t=d.selection?(d.selection.type!='None'?d.selection.createRange().text:''):(d.getSelection?d.getSelection():'');void(kaixin=window.open('http://www.kaixin001.com/~repaste/repaste.php?&amp;rurl='+escape(d.location.href)+'&amp;rtitle='+escape(d.title)+'&amp;rcontent='+escape(d.title),'kaixin'));kaixin.focus(); "title="分享到开心网" rel="nofollow">开心网</a></span>
+					<span><a class="renren rline" href="javascript:void((function(s,d,e){if(/xiaonei\.com/.test(d.location))return;var%20f='http://share.xiaonei.com/share/buttonshare.do?link=',u=d.location,l=d.title,p=[e(u),'&amp;title=',e(l)].join('');function%20a(){if(!window.open([f,p].join(''),'xnshare',['toolbar=0,status=0,resizable=1,width=626,height=436,left=',(s.width-626)/2,',top=',(s.height-436)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent)); "title="分享到人人网" rel="nofollow">人人网</a></span>
+					<span><a class="douban" href="javascript:var u='http://www.douban.com/recommend/?url='+location.href+'&title='+encodeURIComponent(document.title);window.open(u,'douban','toolbar=0,resizable=1,scrollbars=yes,status=1,width=450,height=330');void(0) "title="分享到豆瓣" rel="nofollow">豆瓣</a></span>
+					<span><a class="sohushare rline" href="javascript:void(((function(s,d,e){var f='http://t.sohu.com/third/post.jsp?&url='+e(location.href)+'&title='+e(d.title),u=d.location;function a(){if(!window.open(f,'sohushare',['toolbar=0,status=0,resizable=1,width=660,height=470,left=',(s.width-660)/2,',top=',(s.height-470)/2].join('')))u.href=f;};if(-[1,])setTimeout(a,0);else a();})(screen,document,escape))); "title="分享到搜狐微博" rel="nofollow">搜狐微博</a></span>
+					<span><a class="delicious" href="http://delicious.com/save" onclick="window.open('http://delicious.com/save?v=5&noui&jump=close&url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=550,height=550'); "title="分享到Delicious" rel="nofollow">Delicious</a></span>
+					<div class="clear"></div>
+				</div>
+			</li>
+		</ul>
+	</div>
+</div>

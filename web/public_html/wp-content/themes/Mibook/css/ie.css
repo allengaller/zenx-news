@@ -1,0 +1,37 @@
+
+/* IE FIXES FOR ALL VERSIONS */
+
+#header,
+.primary,
+.sidebar, 
+.secondary, 
+#footer,
+.entry, 
+ul.nav1,
+ul.wslides, 
+ul.cs_slider,
+ul.nav1 li,
+.wrap,
+.slides{
+	zoom:1;
+	}
+.header_wrap {
+	padding-bottom:23px;
+	}
+h5.comment_author_link,
+.comment_date  {
+	float:left;
+	}
+.cs_slider {
+	height:150px;
+	}
+.nivo-caption {
+	height:18px;
+	}
+.commentlist li {
+	padding-bottom:14px;
+	}
+ol {
+	margin-left:6px;
+	padding-left:18px;
+	}

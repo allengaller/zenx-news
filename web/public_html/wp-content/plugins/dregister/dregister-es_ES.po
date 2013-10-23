@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dregister\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2009-02-05 11:10+0100\n"
+"Last-Translator: Alejandro Urrutia <alejandro@theindependentproject.com>\n"
+"Language-Team: The Independent Project <http:/www.theindependentprojet.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: dregister.php:88
+msgid "<strong>ERROR</strong>: You must fill in the required field \""
+msgstr "<strong>ERROR</strong>: Usted debe completar el campo requerido \""
+
+#: dregister.php:93
+msgid "<strong>ERROR</strong>: field \""
+msgstr "<strong>ERROR</strong>: Campo  \""
+
+#: dregister.php:93
+msgid "\" only allows numbers."
+msgstr "\" solamente se permiten números."
+
+#: dregister.php:136
+msgid "First Name"
+msgstr "Nombre"
+
+#: dregister.php:142
+msgid "Last Name"
+msgstr "Apellido"
+
+#: dregister.php:154
+msgid "<i style=\"font-size:80%\"> not required</i>"
+msgstr "<i style=\"font-size:80%\"> no requerido</i>"
+
+#: dregister.php:166
+msgid "<strong>ERROR</strong>: You must fill in the  field \"First Name\"."
+msgstr "<strong>ERROR</strong>: Usted debe completar el campo \"Nombre\"."
+
+#: dregister.php:170
+msgid "<strong>ERROR</strong>: You must fill in the  field \"Last Name\"."
+msgstr "<strong>ERROR</strong>: Usted debe completar el campo \"Apellido\"."
+
+#: dregister.php:235
+msgid "Required."
+msgstr "Requerido."
+
+#: ajax_options_refresh.php:15
+#: ajax_options_update.php:13
+msgid "<p><strong>ERROR:</strong> You must log in first.</p>"
+msgstr "<p><strong>ERROR:</strong> Usted debe conectarse primero.</p>"
+
+#: ajax_options_refresh.php:21
+#: ajax_options_update.php:19
+msgid "<p><strong>ERROR:</strong> You don't have administrator rights to modify registration options.</p>"
+msgstr "<p><strong>ERROR:</strong> Usted no tiene derechos de administrador para modificar las opciones de registro.</p>"
+
+#: ajax_options_refresh.php:33
+#: options.php:54
+#: options.php:67
+msgid "required"
+msgstr "requerido"
+
+#: options.php:15
+msgid "Existing fields"
+msgstr "Campos existentes"
+
+#: options.php:17
+msgid "Changes saved."
+msgstr "Cambios guardados."
+
+#: options.php:24
+msgid "Require first name"
+msgstr "Nombre requerido"
+
+#: options.php:28
+msgid "Require last name"
+msgstr "Apellido requerido"
+
+#: options.php:34
+msgid "Custom fields"
+msgstr "Campos personalizados"
+
+#: options.php:40
+msgid "+ Add custom field"
+msgstr "+ Añadir Campo Personalizado"
+
+#: options.php:69
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: ajax_options_update.php:34
+msgid "<p><strong>ERROR:</strong> You cannot leave any blank field name.</p>"
+msgstr "<p><strong>ERROR:</strong> usted no puede dejar ningún nombre de campo vacío.</p>"
+
+#: ajax_options_update.php:48
+msgid "<p><strong>ERROR:</strong> Field \"<b>"
+msgstr "<strong>ERROR</strong>: Campo \"<b>"
+
+#: config/globals.php:3
+msgid "Text input"
+msgstr "Entrada de texto"
+
+#: config/globals.php:4
+msgid "Numeric input"
+msgstr "Entrada numérica"
+

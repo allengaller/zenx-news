@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dregister\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2009-01-31 16:29+0100\n"
+"Last-Translator: János Csárdi-Braunstein <csardijanos@gmail.com>\n"
+"Language-Team: charlie <http://blogocska.org/tag/wordpress/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Hungarian\n"
+"X-Poedit-Country: HUNGARY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: dregister.php:88
+msgid "<strong>ERROR</strong>: You must fill in the required field \""
+msgstr "<strong>HIBA</strong>: Ki kell töltened a kötelezően kitöltendő mezőket \""
+
+#: dregister.php:93
+msgid "<strong>ERROR</strong>: field \""
+msgstr "<strong>HIBA</strong>: mező \""
+
+#: dregister.php:93
+msgid "\" only allows numbers."
+msgstr "\" csak számokat tartalmazhat."
+
+#: dregister.php:136
+msgid "First Name"
+msgstr "Keresztnév"
+
+#: dregister.php:142
+msgid "Last Name"
+msgstr "Vezetéknév"
+
+#: dregister.php:154
+msgid "<i style=\"font-size:80%\"> not required</i>"
+msgstr "<i style=\"font-size:80%\"> nem kötelező</i>"
+
+#: dregister.php:166
+msgid "<strong>ERROR</strong>: You must fill in the  field \"First Name\"."
+msgstr "<strong>HIBA</strong>: Meg kell adni a keresztnevet."
+
+#: dregister.php:170
+msgid "<strong>ERROR</strong>: You must fill in the  field \"Last Name\"."
+msgstr "<strong>HIBA</strong>: Meg kell adni a vezetéknevet."
+
+#: dregister.php:235
+msgid "Required."
+msgstr "Szükséges."
+
+#: ajax_options_refresh.php:15
+#: ajax_options_update.php:13
+msgid "<p><strong>ERROR:</strong> You must log in first.</p>"
+msgstr "<p><strong>HIBA:</strong> Előbb be kell jelentkezni</p>"
+
+#: ajax_options_refresh.php:21
+#: ajax_options_update.php:19
+msgid "<p><strong>ERROR:</strong> You don't have administrator rights to modify registration options.</p>"
+msgstr "<p><strong>HIBA:</strong> Csak adminisztrátor jogú felhasználók módosíthatják a regisztrációs beállításokat.</p>"
+
+#: ajax_options_refresh.php:33
+#: options.php:54
+#: options.php:67
+msgid "required"
+msgstr "szükséges"
+
+#: options.php:15
+msgid "Existing fields"
+msgstr "Létező mező"
+
+#: options.php:17
+msgid "Changes saved."
+msgstr "Változások elmentve."
+
+#: options.php:24
+msgid "Require first name"
+msgstr "Keresztnevet meg kell adni"
+
+#: options.php:28
+msgid "Require last name"
+msgstr "Vezetéknevet meg kell adni"
+
+#: options.php:34
+msgid "Custom fields"
+msgstr "Saját mezők"
+
+#: options.php:40
+msgid "+ Add custom field"
+msgstr "+ Saját mező hozzáadása"
+
+#: options.php:69
+msgid "Save Changes"
+msgstr "Változások mentése"
+
+#: ajax_options_update.php:34
+msgid "<p><strong>ERROR:</strong> You cannot leave any blank field name.</p>"
+msgstr "<p><strong>HIBA:</strong> Nem lehet üresen hagyni a mező nevét.</p>"
+
+#: ajax_options_update.php:48
+msgid "<p><strong>ERROR:</strong> Field \"<b>"
+msgstr "<p><strong>HIBA:</strong> Mező \"<b>"
+
+#: config/globals.php:3
+msgid "Text input"
+msgstr "Szöveges beviteli mező"
+
+#: config/globals.php:4
+msgid "Numeric input"
+msgstr "Szám beviteli mező"
+

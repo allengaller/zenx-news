@@ -1,0 +1,1 @@
+<div style="color:red;font-size:14px; background:#FFDF7B; text-align:center;line-height:36px; height:36px;">你正在使用的浏览器版本太低，将不能正常浏览本站。请升级 <a href="http://windows.microsoft.com/zh-CN/internet-explorer/downloads/ie">Internet Explorer</a>或使用<a href="http://www.google.com/chrome/">Chrome</a> 浏览器</div>

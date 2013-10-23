@@ -1,0 +1,28 @@
+.wpul_widget_userlogin { 
+    color:#000;
+    font-family: sans-serif;
+}
+.wpul_widget_userlogin a { 
+    color: #333;
+}
+.wpul_widget_userlogin span#welcome {
+    font-style: italic;
+}
+ul.wpul_menu {
+    font-family: sans-serif;
+}
+ul.wpul_menu li {
+    list-style-type: none;
+}
+ul.wpul_menu li a {
+    color: #333;
+}
+ul.wpul_menu li a:hover {
+    text-decoration: underline;
+}
+
+    font-size: 1.8em;
+#rememberme {
+    margin: 5px 0;
+}
+#loginform p label { display: block; }

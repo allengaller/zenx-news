@@ -1,0 +1,47 @@
+#dr_custom_input{
+background:#FBFBFB none repeat scroll 0 0;
+border:1px solid #E5E5E5;
+font-size:24px;
+margin-bottom:16px;
+margin-right:6px;
+margin-top:2px;
+padding:3px;
+width:97%;
+}
+
+.error{
+color:white;
+background:#ed6c71;
+padding:5px;
+}
+
+.small{
+font-size:80%;
+color:#959595;
+}
+
+.small input{
+font-size:90%;
+color:#464646;
+}
+
+.smallblack{
+font-size:80%;
+
+}
+
+
+th.input_field{
+line-height:opx;
+}
+
+tr.dregister_options{
+border-top:1px solid #d7d7d7;
+}
+
+div.dr_input_radio {
+padding-top:5px;
+color:#777777;
+font-size:13px;
+text-align:center;
+}

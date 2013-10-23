@@ -1,0 +1,1672 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mibook\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-28 01:16+0800\n"
+"PO-Revision-Date: 2012-10-28 01:16+0800\n"
+"Last-Translator: \n"
+"Language-Team: Chzng\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;_n\n"
+"X-Poedit-Basepath: ./\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:6
+msgid "Not Found!"
+msgstr "无内容可显示！"
+
+#: ../404.php:7
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "很遗憾，您查看的页面不存在！或许搜索会对您有帮助。"
+
+#: ../archive.php:21
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "每日归类: %s"
+
+#: ../archive.php:23
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "月度归类: %s"
+
+#: ../archive.php:25
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "年度归类: %s"
+
+#: ../archive.php:27
+msgid "Blog Archives"
+msgstr "博客归类"
+
+#: ../archive.php:49
+#: ../author.php:51
+#: ../category.php:45
+msgid "Nothing Found"
+msgstr ""
+
+#: ../archive.php:53
+#: ../author.php:55
+#: ../category.php:49
+#: ../contact-page.php:98
+#: ../page-1column.php:68
+#: ../page-2column.php:78
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr "很遗憾，您查看的页面不存在！或许搜索会对您有帮助。"
+
+#: ../attachment.php:18
+msgid "Previous Link:"
+msgstr "上一个："
+
+#: ../attachment.php:21
+msgid "Next Link:"
+msgstr "下一个："
+
+#: ../attachment.php:34
+#, php-format
+msgid "<span class=\"entry-date\">Published<abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> <span class=\"image-size\"> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a></span> <span class=\"image-in\">in <a href=\"%6$s\" title=\"%7$s\" rel=\"gallery\">%8$s</a></span>"
+msgstr "<span class=\"entry-date\">发布于：<abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> <span class=\"image-size\"> 尺寸： <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a></span> <span class=\"image-in\">发布在：<a href=\"%6$s\" title=\"%7$s\" rel=\"gallery\">%8$s</a></span>"
+
+#: ../attachment.php:45
+#: ../comments-ajax.php:162
+#: ../functions.php:492
+#: ../functions.php:566
+#: ../functions.php:593
+msgid "Edit"
+msgstr "编辑"
+
+#: ../attachment.php:87
+#: ../content.php:25
+msgid "Pages:"
+msgstr "页码："
+
+#: ../author.php:20
+#, php-format
+msgid "Author Archives: %s"
+msgstr "按照作者归类: %s"
+
+#: ../author.php:35
+#, php-format
+msgid "About %s"
+msgstr "关于 %s"
+
+#: ../category.php:32
+#: ../layout.php:42
+#: ../page-1column.php:57
+msgid "Read More"
+msgstr "阅读更多"
+
+#: ../comments-ajax.php:21
+#: ../comments-ajax.php:34
+#: ../comments-ajax.php:37
+msgid "Invalid comment status."
+msgstr ""
+
+#: ../comments-ajax.php:31
+msgid "Sorry, comments are closed for this item."
+msgstr "很抱歉，评论已经关闭！"
+
+#: ../comments-ajax.php:40
+msgid "Password Protected"
+msgstr "密码保护"
+
+#: ../comments-ajax.php:67
+msgid "Sorry, you must be logged in to post a comment."
+msgstr "Sorry, you must be logged in to post a comment."
+
+#: ../comments-ajax.php:74
+msgid "Error: please fill the required fields (name, email)."
+msgstr "Error: please fill the required fields (name, email)."
+
+#: ../comments-ajax.php:76
+msgid "Error: please enter a valid email address."
+msgstr "Error: please enter a valid email address."
+
+#: ../comments-ajax.php:80
+msgid "Error: please type a comment."
+msgstr "Error: please type a comment."
+
+#: ../comments-ajax.php:94
+msgid "Duplicate comment detected; it looks as though you&#8217;ve already said that!"
+msgstr "Duplicate comment detected; it looks as though you&#8217;ve already said that!"
+
+#: ../comments-ajax.php:103
+msgid "You are posting comments too quickly.  Slow down."
+msgstr "You are posting comments too quickly.  Slow down."
+
+#: ../comments-ajax.php:151
+#: ../functions.php:583
+#, php-format
+msgid "%1$s on %2$s <span class=\"says\">said:</span>"
+msgstr "%1$s 在 %2$s <span class=\"says\">说到：</span>"
+
+#: ../comments-ajax.php:157
+#: ../functions.php:589
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: ../comments-ajax.php:167
+#: ../functions.php:599
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: ../comments.php:17
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "加密文章！输入密码然才能查看。"
+
+#: ../comments.php:27
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: ../comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: ../contact-page.php:86
+msgid "Name*"
+msgstr ""
+
+#: ../contact-page.php:87
+msgid "E-mail*"
+msgstr ""
+
+#: ../contact-page.php:88
+msgid "URL"
+msgstr "URL"
+
+#: ../contact-page.php:89
+msgid "Message*"
+msgstr ""
+
+#: ../contact-page.php:90
+msgid "Send Message"
+msgstr ""
+
+#: ../contact-page.php:97
+#: ../page-1column.php:67
+#: ../page-2column.php:77
+msgid "Not Found"
+msgstr ""
+
+#: ../content.php:8
+msgid "Featured"
+msgstr ""
+
+#: ../content.php:24
+msgid "Continue reading"
+msgstr "继续阅读"
+
+#: ../footer.php:88
+msgid "Scroll to top"
+msgstr "回页眉"
+
+#: ../functions.php:64
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: ../functions.php:65
+msgid "Secondary Menu"
+msgstr "副菜单"
+
+#: ../functions.php:74
+msgid "Default Header Widget Area"
+msgstr "页眉工具栏"
+
+#: ../functions.php:76
+msgid "The default header widget area"
+msgstr ""
+
+#: ../functions.php:84
+msgid "Default Featured Widget Area"
+msgstr "特选工具栏"
+
+#: ../functions.php:86
+msgid "The default featured widget area"
+msgstr ""
+
+#: ../functions.php:94
+msgid "Default Sidebar"
+msgstr "默认主要边栏"
+
+#: ../functions.php:96
+msgid "The default primary widget area"
+msgstr ""
+
+#: ../functions.php:104
+msgid "Default Secondary Column 1"
+msgstr "页脚工具栏Ⅰ"
+
+#: ../functions.php:106
+msgid "First column of secondary widget area"
+msgstr ""
+
+#: ../functions.php:114
+msgid "Default Secondary Column 2"
+msgstr "页脚工具栏Ⅱ"
+
+#: ../functions.php:116
+msgid "Second column of secondary widget area"
+msgstr ""
+
+#: ../functions.php:124
+msgid "Default Secondary Column 3"
+msgstr "页脚工具栏Ⅲ"
+
+#: ../functions.php:126
+msgid "Third column of secondary widget area"
+msgstr ""
+
+#: ../functions.php:134
+msgid "Default Secondary Column 4"
+msgstr "页脚工具栏Ⅳ"
+
+#: ../functions.php:136
+msgid "Fourth column of secondary widget area"
+msgstr ""
+
+#: ../functions.php:164
+msgid " Header Widget Area"
+msgstr ""
+
+#: ../functions.php:176
+msgid " Featured Widget Area"
+msgstr ""
+
+#: ../functions.php:188
+msgid " Sidebar"
+msgstr ""
+
+#: ../functions.php:199
+msgid " Secondary Column 1"
+msgstr ""
+
+#: ../functions.php:209
+msgid " Secondary Column 2"
+msgstr ""
+
+#: ../functions.php:219
+msgid " Secondary Column 3"
+msgstr ""
+
+#: ../functions.php:229
+msgid " Secondary Column 4"
+msgstr ""
+
+#: ../functions.php:310
+msgid "Home"
+msgstr ""
+
+#: ../functions.php:326
+msgid "Archive by category"
+msgstr " "
+
+#: ../functions.php:369
+msgid "Search results for"
+msgstr ""
+
+#: ../functions.php:372
+msgid "Posts tagged"
+msgstr "标签归类："
+
+#: ../functions.php:379
+msgid "Articles posted by "
+msgstr ""
+
+#: ../functions.php:382
+#: ../functions.php:426
+msgid "Error 404"
+msgstr ""
+
+#: ../functions.php:387
+msgid "Page"
+msgstr ""
+
+#: ../functions.php:401
+msgid "Daily Archives"
+msgstr ""
+
+#: ../functions.php:404
+msgid "Monthly Archives"
+msgstr ""
+
+#: ../functions.php:407
+msgid "Yearly Archives"
+msgstr ""
+
+#: ../functions.php:417
+msgid "Search Results"
+msgstr ""
+
+#: ../functions.php:420
+msgid "Tag Archives"
+msgstr "标签归类："
+
+#: ../functions.php:423
+msgid "Author Archives"
+msgstr "按作者归类"
+
+#: ../functions.php:429
+msgid "Attachments"
+msgstr ""
+
+#: ../functions.php:453
+#: ../layout.php:22
+#: ../layout.php:26
+#, php-format
+msgid "View all posts in %s"
+msgstr "View all posts in %s"
+
+#: ../functions.php:469
+#, php-format
+msgid "<span class=\"date-link\">%1$s</span> <span class=\"author-link\">%2$s</span>"
+msgstr ""
+
+#: ../functions.php:472
+#, php-format
+msgid "<span>Posted on</span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"> %3$s </a>"
+msgstr "<span>日期：</span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"> %3$s </a>"
+
+#: ../functions.php:479
+#, php-format
+msgid "<span>Posted by</span><a href=\"%1$s\" title=\"%2$s\">%3$s</a>"
+msgstr "<span>作者：</span><a href=\"%1$s\" title=\"%2$s\">%3$s</a>"
+
+#: ../functions.php:490
+msgid "Leave a reply"
+msgstr "回复"
+
+#: ../functions.php:490
+msgid "1 Reply"
+msgstr "1条回复"
+
+#: ../functions.php:490
+msgid "% Replies"
+msgstr "%条回复"
+
+#: ../functions.php:497
+#: ../functions.php:498
+msgid ", "
+msgstr ", "
+
+#: ../functions.php:500
+#, php-format
+msgid "<span class=\"cats-link\">%1$s</span><span class=\"tags-link\">%2$s</span> "
+msgstr "<span class=\"cats-link\">%1$s</span><span class=\"tags-link\">%2$s</span> "
+
+#: ../functions.php:501
+#, php-format
+msgid "<span>Posted in</span> %2$s"
+msgstr "<span>类别：</span> %2$s"
+
+#: ../functions.php:502
+#, php-format
+msgid "<span>Tagged</span> %2$s"
+msgstr "<span>标签：</span> %2$s"
+
+#: ../functions.php:515
+msgid "&laquo;  Previous Page"
+msgstr "上一页"
+
+#: ../functions.php:544
+msgid " Next Page  &raquo;"
+msgstr "下一页"
+
+#: ../functions.php:566
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions.php:594
+msgid "Author"
+msgstr "作者"
+
+#: ../functions.php:608
+msgid "Reply"
+msgstr "回复"
+
+#: ../functions.php:660
+msgid "Related Posts"
+msgstr "相关内容"
+
+#: ../functions.php:734
+msgid "Name"
+msgstr ""
+
+#: ../functions.php:735
+msgid "Email"
+msgstr ""
+
+#: ../functions.php:736
+msgid "Website"
+msgstr ""
+
+#: ../layout.php:24
+msgid "Post Counts:"
+msgstr "文章数目"
+
+#: ../layout.php:25
+#, php-format
+msgid "RSS in %s"
+msgstr ""
+
+#: ../layout.php:25
+msgid "RSS"
+msgstr ""
+
+#: ../layout.php:26
+msgid "More Post"
+msgstr "更多"
+
+#: ../page.php:17
+msgid "More &rarr;"
+msgstr ""
+
+#: ../page.php:19
+msgid "Edit this page"
+msgstr "编辑此页"
+
+#: ../search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: ../search.php:35
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#: ../searchform.php:5
+msgid "Search this site"
+msgstr "搜索"
+
+#: ../single.php:21
+#: ../single.php:82
+msgid "Previous Post:"
+msgstr "上一篇："
+
+#: ../single.php:23
+#: ../single.php:84
+msgid "Sorry, it is already the newest post."
+msgstr "很抱歉，这已经是最新的文章了。"
+
+#: ../single.php:29
+#: ../single.php:90
+msgid "Next post:"
+msgstr "下一篇："
+
+#: ../single.php:31
+#: ../single.php:92
+msgid "Sorry, it is already the earliest post."
+msgstr "很抱歉，这已经是最早的文章了"
+
+#: ../single.php:63
+#, php-format
+msgid "View all posts by %s"
+msgstr "查看%s发布的所有内容"
+
+#: ../single.php:72
+msgid "Permalink:"
+msgstr "链接："
+
+#: ../tag.php:20
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../includes/cats_widget.php:6
+msgid "Display a custom list of categories using exclude option."
+msgstr ""
+
+#: ../includes/cats_widget.php:7
+msgid "Mibook Categories"
+msgstr "Mibook：分类目录"
+
+#: ../includes/cats_widget.php:11
+msgid "Categories"
+msgstr "分类"
+
+#: ../includes/cats_widget.php:40
+#: ../includes/content_slider_widget.php:87
+#: ../includes/flickr_widget.php:93
+msgid "Title:"
+msgstr "标题："
+
+#: ../includes/cats_widget.php:42
+msgid "Show hierarchy ?"
+msgstr "显示分层结构？"
+
+#: ../includes/cats_widget.php:45
+msgid "Exclude:"
+msgstr "要排除的分类："
+
+#: ../includes/cats_widget.php:48
+msgid "Category IDs, separated by commas."
+msgstr "分类ID，用逗号隔开（此处分类ID不能为负数）"
+
+#: ../includes/content_slider_widget.php:6
+msgid "Slide show of your custom HTML content. You can use it for testimonials, or image slide show."
+msgstr ""
+
+#: ../includes/content_slider_widget.php:7
+msgid "Mibook Content Slider"
+msgstr "Mibook：内容滑块"
+
+#: ../includes/content_slider_widget.php:90
+msgid "Your HTML content wrapped in li tags:"
+msgstr ""
+
+#: ../includes/content_slider_widget.php:92
+msgid "Wrap each entry for slideshow inside li tags."
+msgstr ""
+
+#: ../includes/content_slider_widget.php:94
+msgid "Unique ID name for content slider:"
+msgstr ""
+
+#: ../includes/content_slider_widget.php:96
+msgid "Enter a unique ID name. Eg: myslider, slider2, myclients etc. Unique IDs are used to avoid any conflict if this widget is used multiple times on same page."
+msgstr "给图影片添加一个唯一的ID名，例如：myslider, mini-slider等等，此项必填"
+
+#: ../includes/content_slider_widget.php:99
+msgid "Effect:"
+msgstr "效果："
+
+#: ../includes/content_slider_widget.php:101
+msgid "Fade"
+msgstr ""
+
+#: ../includes/content_slider_widget.php:102
+msgid "Scroll Up"
+msgstr ""
+
+#: ../includes/content_slider_widget.php:103
+msgid "Scroll Down"
+msgstr ""
+
+#: ../includes/content_slider_widget.php:106
+msgid "Speed:"
+msgstr "速度："
+
+#: ../includes/content_slider_widget.php:108
+#: ../includes/content_slider_widget.php:112
+msgid "(in miliseconds)"
+msgstr ""
+
+#: ../includes/content_slider_widget.php:110
+msgid "Timeout:"
+msgstr "超时:"
+
+#: ../includes/flickr_widget.php:6
+msgid "A flickr widget to display your photostream from flickr."
+msgstr "A flickr widget to display your photostream from flickr."
+
+#: ../includes/flickr_widget.php:7
+#: ../includes/flickr_widget.php:12
+msgid "Mibook Flickr Widget"
+msgstr "Mibook：Flickr相册"
+
+#: ../includes/flickr_widget.php:95
+msgid "Source:"
+msgstr "Source:"
+
+#: ../includes/flickr_widget.php:97
+msgid "User"
+msgstr "User"
+
+#: ../includes/flickr_widget.php:98
+msgid "User Tag"
+msgstr "User Tag"
+
+#: ../includes/flickr_widget.php:99
+msgid "User Set"
+msgstr "User Set"
+
+#: ../includes/flickr_widget.php:100
+msgid "All"
+msgstr "All"
+
+#: ../includes/flickr_widget.php:101
+msgid "All Tag"
+msgstr "All Tag"
+
+#: ../includes/flickr_widget.php:105
+msgid "User ID:"
+msgstr "User ID:"
+
+#: ../includes/flickr_widget.php:107
+msgid "This would be a Flickr photostream ID. Eg: 48531931%40N03, where %40 is replaced for @"
+msgstr "This would be a Flickr photostream ID. Eg: 48531931%40N03, where %40 is replaced for @"
+
+#: ../includes/flickr_widget.php:111
+msgid "User Set ID:"
+msgstr "User Set ID:"
+
+#: ../includes/flickr_widget.php:113
+msgid "If source is User Set, enter your User set Id."
+msgstr "If source is User Set, enter your User set Id."
+
+#: ../includes/flickr_widget.php:117
+msgid "Tag:"
+msgstr "标签："
+
+#: ../includes/flickr_widget.php:119
+msgid "If source is User Tag or All Tag, enter a tag name. Eg: nature"
+msgstr "If source is User Tag or All Tag, enter a tag name. Eg: nature"
+
+#: ../includes/flickr_widget.php:122
+msgid "Number of photos to show:"
+msgstr "Number of photos to show:"
+
+#: ../includes/flickr_widget.php:124
+msgid "(at most 10)"
+msgstr "（最多10篇文章）"
+
+#: ../includes/flickr_widget.php:126
+msgid "Display Random?"
+msgstr "Display Random?"
+
+#: ../includes/flickr_widget.php:128
+msgid "If unchecked, it will show latest photos."
+msgstr "If unchecked, it will show latest photos."
+
+#: ../includes/flickr_widget.php:130
+msgid "Text to appear before gallery:"
+msgstr "Text to appear before gallery:"
+
+#: ../includes/flickr_widget.php:132
+msgid "You can use basic HTML here."
+msgstr "You can use basic HTML here."
+
+#: ../includes/mini_folio_widget.php:6
+msgid "Show a mini portfolio from thumbnails of posts."
+msgstr "Show a mini portfolio from thumbnails of posts."
+
+#: ../includes/mini_folio_widget.php:7
+msgid "Mibook Mini Folio"
+msgstr "Mibook：迷你开本"
+
+#: ../includes/mini_folio_widget.php:27
+msgid "Mini Folio"
+msgstr "迷你开本"
+
+#: ../includes/mini_folio_widget.php:83
+#: ../includes/popular_posts_widget.php:93
+#: ../includes/recent_posts_widget.php:94
+msgid "Number of posts to show:"
+msgstr "显示的文章数："
+
+#: ../includes/mini_folio_widget.php:85
+#: ../includes/popular_posts_widget.php:95
+#: ../includes/recent_comments_widget.php:70
+#: ../includes/recent_posts_widget.php:96
+msgid "(at most 15)"
+msgstr "（最多15篇文章）"
+
+#: ../includes/mini_folio_widget.php:87
+#: ../includes/recent_posts_widget.php:98
+msgid "Cat IDs to exclude or include:"
+msgstr "要包含或排除的分类ID"
+
+#: ../includes/mini_folio_widget.php:90
+#: ../includes/recent_posts_widget.php:101
+msgid "Category IDs, separated by commas. Eg: 3,6,7 to include. Or -3,-6,-7 to exclude."
+msgstr "显示或排除的分类ID，多个分类用逗号分开。例如：1,3,5 或者：-1,-3,-5  （正数是包括，负数是排除）"
+
+#: ../includes/mini_slider_widget.php:6
+msgid "Mini slide show of post thumbnails."
+msgstr ""
+
+#: ../includes/mini_slider_widget.php:7
+msgid "Mibook Mini Slider"
+msgstr "Mibook：迷你图影片"
+
+#: ../includes/mini_slider_widget.php:112
+msgid "Category to fetch slides:"
+msgstr "获取迷你图影片的分类ID："
+
+#: ../includes/mini_slider_widget.php:114
+msgid "Category IDs to load images from. Eg: 3,6,7"
+msgstr "加载图片的分类ID，例如：1,3,5"
+
+#: ../includes/mini_slider_widget.php:116
+msgid "Unique ID name for slider:"
+msgstr "图影片的唯一ID名（必填）："
+
+#: ../includes/mini_slider_widget.php:120
+#: ../includes/theme_admin_options.php:210
+msgid "Number of slides to show:"
+msgstr "图影片数目："
+
+#: ../includes/mini_slider_widget.php:128
+msgid "Scroll Left"
+msgstr "左滑动"
+
+#: ../includes/mini_slider_widget.php:129
+msgid "Scroll Right"
+msgstr "右滑动"
+
+#: ../includes/mini_slider_widget.php:131
+msgid "Slide X"
+msgstr ""
+
+#: ../includes/mini_slider_widget.php:132
+msgid "Slide Y"
+msgstr ""
+
+#: ../includes/mini_slider_widget.php:143
+msgid "Text to appear before slider:"
+msgstr ""
+
+#: ../includes/page_options.php:7
+#: ../includes/post_options.php:7
+msgid "Sidebar"
+msgstr "边栏"
+
+#: ../includes/page_options.php:11
+#: ../includes/post_options.php:11
+msgid "Sidebar Placement"
+msgstr "侧边栏位置"
+
+#: ../includes/page_options.php:15
+#: ../includes/post_options.php:15
+msgid "Choose right, left or none."
+msgstr "请选择“左”、“右”或者“无”"
+
+#: ../includes/page_options.php:20
+msgid "Exclusive widget areas"
+msgstr "显示在此页面的工具栏选项"
+
+#: ../includes/page_options.php:24
+msgid "Create an exclusive header widget area"
+msgstr "创建专属页眉工具栏"
+
+#: ../includes/page_options.php:26
+msgid "If unchecked, default header widget area will be used, as on blog pages."
+msgstr "选中后则会在小工具设置里出现页眉工具栏，您可以往里面添加小工具"
+
+#: ../includes/page_options.php:30
+msgid "Create an exclusive featured widget area"
+msgstr "创建专属特选工具栏"
+
+#: ../includes/page_options.php:32
+msgid "If unchecked, default featured widget area will be used, as on blog pages."
+msgstr "选中后则会在小工具设置里出现特选工具栏，您可以往里面添加小工具"
+
+#: ../includes/page_options.php:36
+msgid "Create an exclusive sidebar"
+msgstr "创建专属主工具栏"
+
+#: ../includes/page_options.php:38
+msgid "If unchecked, default sidebar will be used, as on blog pages."
+msgstr "选中后则会在小工具设置里出现主工具栏，您可以往里面添加小工具"
+
+#: ../includes/page_options.php:42
+msgid "Create an exclusive secondary area"
+msgstr "创建专属页脚工具栏"
+
+#: ../includes/page_options.php:44
+msgid "If unchecked, default secondary area will be used, as on blog pages."
+msgstr "选中后则会在小工具设置里出现页脚工具栏，您可以往里面添加小工具"
+
+#: ../includes/page_options.php:50
+msgid "Page Caption"
+msgstr "页面标题"
+
+#: ../includes/page_options.php:54
+msgid "Custom page Caption"
+msgstr "自定义此页面标题"
+
+#: ../includes/page_options.php:56
+msgid "Enter a custom caption for this page."
+msgstr "填写您的自定义标题内容"
+
+#: ../includes/page_options.php:60
+msgid "Hide Featured Area"
+msgstr "隐藏此页面的特选工具栏"
+
+#: ../includes/page_options.php:62
+msgid "Check to completely hide Featured Area section on this page."
+msgstr ""
+
+#: ../includes/page_options.php:71
+msgid "If using this page as Portfolio or Blog Template"
+msgstr "如果此页面使用开本页面模板或博客页面模板"
+
+#: ../includes/page_options.php:75
+msgid "Category for Posts"
+msgstr "显示在此页面的文章分类"
+
+#: ../includes/page_options.php:77
+msgid "Enter a category ID, or IDs separated by commas, from which you wish to show posts."
+msgstr "填写此页面显示的文章的分类，用逗号隔开"
+
+#: ../includes/page_options.php:81
+msgid "Posts per page"
+msgstr "每页显示文章数目"
+
+#: ../includes/page_options.php:83
+msgid "The number of posts to show per page."
+msgstr "此页面的每一页显示的文章数目"
+
+#: ../includes/page_options.php:87
+msgid "Hide Portfolio Captions"
+msgstr "隐藏此页面开本文章的标题"
+
+#: ../includes/page_options.php:89
+msgid "Check to hide portfolio captions, so that you can show a classic gallery."
+msgstr ""
+
+#: ../includes/page_options.php:93
+msgid "Custom Header image or embed code"
+msgstr "自定义页眉图像或代码"
+
+#: ../includes/page_options.php:97
+msgid "Custom image or flash embed code:"
+msgstr "自定义图片、动画或者代码"
+
+#: ../includes/page_options.php:99
+msgid "Enter an HTML source code for image or Flash header here. Important: The page caption and featured widget area will be overridden by this image."
+msgstr "填写自定义HTML源代码，注意：填写的HTML源代码将覆盖默认设置"
+
+#: ../includes/page_options.php:105
+msgid "Page Options"
+msgstr "页面属性"
+
+#: ../includes/popular_posts_widget.php:6
+msgid "List popular posts based on most commented."
+msgstr ""
+
+#: ../includes/popular_posts_widget.php:7
+msgid "Mibook Popular Posts"
+msgstr "Mibook：关注排榜"
+
+#: ../includes/popular_posts_widget.php:24
+msgid "Popular"
+msgstr ""
+
+#: ../includes/popular_posts_widget.php:50
+#: ../includes/popular_posts_widget.php:55
+#, php-format
+msgid "<div class=\"popular-post-meta\">%1$s %2$s</div>"
+msgstr ""
+
+#: ../includes/popular_posts_widget.php:97
+#: ../includes/recent_posts_widget.php:103
+msgid "Hide Thumbnails?"
+msgstr "隐藏缩略图？"
+
+#: ../includes/popular_posts_widget.php:99
+#: ../includes/recent_posts_widget.php:105
+msgid "If unchecked, it will show post thumbnails."
+msgstr "默认显示缩略图"
+
+#: ../includes/post_options.php:21
+msgid "Slider options for this post"
+msgstr "此文章如果当作图影片"
+
+#: ../includes/post_options.php:25
+msgid "Check to hide caption for this post on Slider"
+msgstr "选择则隐藏此文章在图影片中的标题"
+
+#: ../includes/post_options.php:27
+msgid "If unchecked, post title will be used as caption."
+msgstr "默认为显示标题"
+
+#: ../includes/post_options.php:31
+msgid "Custom HTML Caption for this post"
+msgstr "自定义此文章在图影片中的标题"
+
+#: ../includes/post_options.php:33
+msgid "Write a custom caption for this post. This caption will be shown on slider."
+msgstr "填写您想要在图影片显示的标题"
+
+#: ../includes/post_options.php:37
+msgid "Slider image links to"
+msgstr "图影片图片链接到的地址"
+
+#: ../includes/post_options.php:39
+msgid "Enter a URL to which the slider image should link to. Example: http://somesite.com. If left empty, the image will link to the permanent post."
+msgstr "自定义此文章作为图影片中的图片的链接地址，如果留空则链接到此文章"
+
+#: ../includes/post_options.php:43
+msgid "Do not link slide images"
+msgstr "祛除此图片的链接"
+
+#: ../includes/post_options.php:45
+msgid "Check to de-activate links for slide images."
+msgstr "选中则使图影片中的图片无链接"
+
+#: ../includes/post_options.php:52
+msgid "Post Options"
+msgstr "日志属性"
+
+#: ../includes/recent_comments_widget.php:6
+msgid "List recent comments with gravatar."
+msgstr ""
+
+#: ../includes/recent_comments_widget.php:7
+msgid "Mibook Recent Comments"
+msgstr "Mibook：近期评论"
+
+#: ../includes/recent_comments_widget.php:15
+msgid "Comments"
+msgstr "评论"
+
+#: ../includes/recent_comments_widget.php:35
+msgid "said:"
+msgstr ""
+
+#: ../includes/recent_comments_widget.php:35
+#: ../includes/recent_comments_widget.php:40
+msgid "View comment on post"
+msgstr ""
+
+#: ../includes/recent_comments_widget.php:35
+#: ../includes/recent_comments_widget.php:40
+msgid "View Post"
+msgstr "查看文章"
+
+#: ../includes/recent_comments_widget.php:68
+msgid "Number of comments to show:"
+msgstr ""
+
+#: ../includes/recent_comments_widget.php:72
+msgid "Hide Avatar?"
+msgstr ""
+
+#: ../includes/recent_comments_widget.php:74
+msgid "If unchecked, it will show author avatar."
+msgstr ""
+
+#: ../includes/recent_posts_widget.php:6
+msgid "List recent posts with thumbnails from custom categories."
+msgstr ""
+
+#: ../includes/recent_posts_widget.php:7
+msgid "Mibook Recent Posts"
+msgstr "Mibook：近期发布"
+
+#: ../includes/recent_posts_widget.php:26
+msgid "Recent Posts"
+msgstr "近期文章"
+
+#: ../includes/recent_posts_widget.php:51
+#, php-format
+msgid "<div class=\"recent-post-meta\">%1$s %2$s</div>"
+msgstr ""
+
+#: ../includes/social_links_widget.php:6
+msgid "A social networking icons widget."
+msgstr "A social networking icons widget."
+
+#: ../includes/social_links_widget.php:7
+msgid "Mibook Social Icons"
+msgstr "Mibook：社交分享"
+
+#: ../includes/social_links_widget.php:131
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../includes/social_links_widget.php:135
+msgid "Full URL of Twitter profile"
+msgstr "Full URL of Twitter profile"
+
+#: ../includes/social_links_widget.php:139
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../includes/social_links_widget.php:143
+msgid "Full URL of Facebook profile"
+msgstr "Full URL of Facebook profile"
+
+#: ../includes/social_links_widget.php:147
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../includes/social_links_widget.php:151
+msgid "Full URL of Flickr Photostream"
+msgstr "Full URL of Flickr Photostream"
+
+#: ../includes/social_links_widget.php:155
+msgid "Delicious"
+msgstr "Delicious"
+
+#: ../includes/social_links_widget.php:159
+msgid "Full URL to Delicious account"
+msgstr "Full URL to Delicious account"
+
+#: ../includes/social_links_widget.php:163
+msgid "DeviantArt"
+msgstr "DeviantArt"
+
+#: ../includes/social_links_widget.php:167
+msgid "Full URL to DeviantArt Profile"
+msgstr "Full URL to DeviantArt Profile"
+
+#: ../includes/social_links_widget.php:171
+msgid "Dribble"
+msgstr "Dribble"
+
+#: ../includes/social_links_widget.php:175
+msgid "Full URL to Dribble"
+msgstr "Full URL to Dribble"
+
+#: ../includes/social_links_widget.php:179
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: ../includes/social_links_widget.php:183
+msgid "Full URL to LinkedIn Profile"
+msgstr "Full URL to LinkedIn Profile"
+
+#: ../includes/social_links_widget.php:187
+msgid "MySpace"
+msgstr "MySpace"
+
+#: ../includes/social_links_widget.php:191
+msgid "Full URL to MySpace Profile"
+msgstr "Full URL to MySpace Profile"
+
+#: ../includes/social_links_widget.php:195
+msgid "StumbledUpon"
+msgstr "StumbledUpon"
+
+#: ../includes/social_links_widget.php:199
+msgid "Full URL to StumbledUpon Page"
+msgstr "Full URL to StumbledUpon Page"
+
+#: ../includes/social_links_widget.php:203
+msgid "Technorati"
+msgstr "Technorati"
+
+#: ../includes/social_links_widget.php:207
+msgid "Full URL to Technorati"
+msgstr ""
+
+#: ../includes/social_links_widget.php:211
+msgid "YouTube"
+msgstr "YouTube"
+
+#: ../includes/social_links_widget.php:215
+msgid "Full URL to YouTube Profile"
+msgstr "Full URL to YouTube Profile"
+
+#: ../includes/social_links_widget.php:219
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../includes/social_links_widget.php:223
+msgid "Full URL to Vimeo Profile"
+msgstr ""
+
+#: ../includes/tagcloud_widget.php:6
+msgid "Display a tagcloud."
+msgstr "Display a tagcloud."
+
+#: ../includes/tagcloud_widget.php:7
+msgid "Mibook Tagcloud"
+msgstr "Mibook：标签云"
+
+#: ../includes/tagcloud_widget.php:17
+msgid "Tagcloud"
+msgstr "标签云"
+
+#: ../includes/tagcloud_widget.php:48
+msgid "title:"
+msgstr "标题："
+
+#: ../includes/tagcloud_widget.php:51
+msgid "The number of Tags(Default:45):"
+msgstr "标签数目（默认为45个）："
+
+#: ../includes/tagcloud_widget.php:54
+msgid "Arrangement:"
+msgstr "排列方式："
+
+#: ../includes/tagcloud_widget.php:56
+#: ../includes/tagcloud_widget.php:63
+#: ../includes/tagcloud_widget.php:72
+msgid "Select"
+msgstr "请选择"
+
+#: ../includes/tagcloud_widget.php:57
+msgid "name"
+msgstr "名称"
+
+#: ../includes/tagcloud_widget.php:58
+msgid "count"
+msgstr "数量"
+
+#: ../includes/tagcloud_widget.php:61
+msgid "Order of Tag:"
+msgstr "排序："
+
+#: ../includes/tagcloud_widget.php:64
+msgid "ASC"
+msgstr "升序"
+
+#: ../includes/tagcloud_widget.php:65
+msgid "DESC"
+msgstr "降序"
+
+#: ../includes/tagcloud_widget.php:66
+msgid "RAND"
+msgstr "随机"
+
+#: ../includes/tagcloud_widget.php:70
+msgid "Tag Format(Default:pt):"
+msgstr "标签字体格式（默认：pt）："
+
+#: ../includes/tagcloud_widget.php:73
+msgid "px"
+msgstr "px"
+
+#: ../includes/tagcloud_widget.php:74
+msgid "em"
+msgstr "em"
+
+#: ../includes/tagcloud_widget.php:75
+msgid "%"
+msgstr "%"
+
+#: ../includes/tagcloud_widget.php:78
+msgid "Mini Tag Size(Default:8):"
+msgstr "标签最小字体（默认：8pt）"
+
+#: ../includes/tagcloud_widget.php:81
+msgid "Max Tag Size(Default:22):"
+msgstr "标签最大字体（默认：22pt）"
+
+#: ../includes/theme_admin_options.php:12
+msgid "General"
+msgstr "基本设置"
+
+#: ../includes/theme_admin_options.php:16
+msgid "Home Page"
+msgstr "首页设置"
+
+#: ../includes/theme_admin_options.php:20
+msgid "Slider"
+msgstr "图影片"
+
+#: ../includes/theme_admin_options.php:24
+msgid "Single"
+msgstr "日志选项"
+
+#: ../includes/theme_admin_options.php:28
+msgid "Headings"
+msgstr "标题选项"
+
+#: ../includes/theme_admin_options.php:40
+msgid "General Settings for the theme"
+msgstr "主题基本设置"
+
+#: ../includes/theme_admin_options.php:43
+msgid "Web Logo:"
+msgstr "网站LOGO"
+
+#: ../includes/theme_admin_options.php:44
+msgid "Select logo format for your web."
+msgstr "选择LOGO的显示方式"
+
+#: ../includes/theme_admin_options.php:50
+msgid "Custom Logo URL:"
+msgstr "自定义LOGO URL"
+
+#: ../includes/theme_admin_options.php:51
+msgid "Enter full URL of your Logo image."
+msgstr "填写完整的Logo的地址"
+
+#: ../includes/theme_admin_options.php:56
+msgid "Logo MarginTop(px):"
+msgstr "LOGO上边距(px)："
+
+#: ../includes/theme_admin_options.php:57
+msgid "Enter a top margin for Logo or Blog name"
+msgstr "Logo或者博客名字的上边距"
+
+#: ../includes/theme_admin_options.php:62
+msgid "Logo MarginBottom(px):"
+msgstr "LOGO下边距(px)："
+
+#: ../includes/theme_admin_options.php:63
+msgid "Enter a bottom margin for Logo or Blog name"
+msgstr "Logo或者博客名字的下边距"
+
+#: ../includes/theme_admin_options.php:68
+msgid "Layout Style:"
+msgstr "布局样式："
+
+#: ../includes/theme_admin_options.php:69
+msgid "Select a layout style for your theme"
+msgstr "Boxed：盒模式即一般模式，Stretched：为拉伸模式即宽屏模式"
+
+#: ../includes/theme_admin_options.php:75
+msgid "Global Sidebar Placement:"
+msgstr "全局侧边栏位置："
+
+#: ../includes/theme_admin_options.php:76
+msgid "Select a placement for sidebar"
+msgstr "全局侧边栏的位置"
+
+#: ../includes/theme_admin_options.php:82
+msgid "Meta Description for Website:"
+msgstr "网站描述(Meta)："
+
+#: ../includes/theme_admin_options.php:83
+msgid "Enter a brief and concise words to description your website. Seperate each keyword with comma. "
+msgstr "输入简明扼要的词语或词组来描述您的网站。"
+
+#: ../includes/theme_admin_options.php:88
+msgid "Meta Keywords for SEO:"
+msgstr "网站关键字："
+
+#: ../includes/theme_admin_options.php:89
+msgid "Enter a brief and concise list of some unique keywords that best describes the content of your page. Seperate each keyword with comma."
+msgstr "输入简明扼要的词语或词组来作为您网站的关键字，用逗号隔开。"
+
+#: ../includes/theme_admin_options.php:94
+msgid "Google Analytics Code:"
+msgstr ""
+
+#: ../includes/theme_admin_options.php:95
+msgid "Enter your Google Analytics ID code. For ex: UA-XXXXXXXX-X"
+msgstr ""
+
+#: ../includes/theme_admin_options.php:100
+msgid "Contact e-mail:"
+msgstr "联络页面E-Mail"
+
+#: ../includes/theme_admin_options.php:101
+msgid "Enter the e-mail address to which mail should be recieved from contact page."
+msgstr "联系页面电子邮件"
+
+#: ../includes/theme_admin_options.php:106
+msgid "Mail Sent Message:"
+msgstr ""
+
+#: ../includes/theme_admin_options.php:107
+msgid "Information after Contact e-mail Sent. You can use <code>HTML</code> here."
+msgstr "联系页面邮件发送后的回复信息"
+
+#: ../includes/theme_admin_options.php:109
+msgid "<h4>Thank You! Your message has been sent.</h4>"
+msgstr ""
+
+#: ../includes/theme_admin_options.php:112
+msgid "Custom Footer Text (Left):"
+msgstr "自定义页脚文本（左）"
+
+#: ../includes/theme_admin_options.php:113
+msgid "Enter custom text for left side of the footer. You can use <code>HTML</code> here."
+msgstr "页脚左侧自定义HTML文本或代码"
+
+#: ../includes/theme_admin_options.php:118
+msgid "Custom Footer Text (Right):"
+msgstr "自定义页脚文本（右）"
+
+#: ../includes/theme_admin_options.php:119
+msgid "Enter custom text for right side of the footer. You can use <code>HTML</code> here."
+msgstr "页脚右侧自定义HTML文本或代码"
+
+#: ../includes/theme_admin_options.php:132
+msgid "Home Category Setting"
+msgstr "首页分类设置"
+
+#: ../includes/theme_admin_options.php:135
+msgid "Home Category IDs to exclude:"
+msgstr "首页要排除分类："
+
+#: ../includes/theme_admin_options.php:136
+msgid "Insert the category IDs you want excluded from home page. Ex: 1,3,5"
+msgstr "首页内容区要排除的分类，例如：1,3,5（此处要填写正数，不能为负数）"
+
+#: ../includes/theme_admin_options.php:141
+msgid "Orderby of Home Category:"
+msgstr "首页分类排序规则："
+
+#: ../includes/theme_admin_options.php:142
+msgid "Select an orderby,ID:Category id,Name:Category name,Count:Category post count,Slug:Category slug"
+msgstr "分类ID，分类名，文章数，分类别名"
+
+#: ../includes/theme_admin_options.php:148
+msgid "Order of Home Category:"
+msgstr "首页分类排列顺序："
+
+#: ../includes/theme_admin_options.php:149
+msgid "Select an order - Ascending or Descending"
+msgstr "ASC：升序，DESC：降序"
+
+#: ../includes/theme_admin_options.php:155
+msgid "Block Slider Settings"
+msgstr "滑块设置："
+
+#: ../includes/theme_admin_options.php:158
+msgid "Block Slider Name:"
+msgstr "滑块名称："
+
+#: ../includes/theme_admin_options.php:159
+msgid "Custom your block slider name."
+msgstr "自定义滑块名称"
+
+#: ../includes/theme_admin_options.php:164
+msgid "Block Slider Category ID to fetch images from:"
+msgstr "滑块分类："
+
+#: ../includes/theme_admin_options.php:165
+msgid "Enter your block slider category ID (or IDs separated by comma) from which images will be shown on slider."
+msgstr "滑块图像的分类ID，多个分类用逗号隔开，默认为空显示所有分类"
+
+#: ../includes/theme_admin_options.php:170
+msgid "Order of block slider:"
+msgstr "滑块顺序："
+
+#: ../includes/theme_admin_options.php:171
+#: ../includes/theme_admin_options.php:223
+msgid "Select an order - Ascending or descending"
+msgstr "ASC：升序，DESC：降序"
+
+#: ../includes/theme_admin_options.php:185
+msgid "Slider Settings"
+msgstr "图影片设置"
+
+#: ../includes/theme_admin_options.php:188
+msgid "Show Slider:"
+msgstr "显示图影片："
+
+#: ../includes/theme_admin_options.php:189
+msgid "Select the slider enable or not."
+msgstr "是否显示首页图影片"
+
+#: ../includes/theme_admin_options.php:197
+msgid "Slider Type:"
+msgstr "图影片类型："
+
+#: ../includes/theme_admin_options.php:198
+msgid "Select a slider - Cycle Slider or Nivo Slider"
+msgstr "选择图影片的播放样式"
+
+#: ../includes/theme_admin_options.php:204
+msgid "Category ID to fetch images from:"
+msgstr "图影片分类："
+
+#: ../includes/theme_admin_options.php:205
+msgid "Enter your featured category ID (or IDs separated by comma) from which images will be shown on slider."
+msgstr "获取图影片图片的文章分类，用逗号隔开"
+
+#: ../includes/theme_admin_options.php:211
+msgid "Enter number of slides to show."
+msgstr "图影片数目"
+
+#: ../includes/theme_admin_options.php:216
+msgid "Slider Height (px):"
+msgstr "图影片高度(px)："
+
+#: ../includes/theme_admin_options.php:217
+msgid "Enter a height for slider"
+msgstr "图影片图片的高度"
+
+#: ../includes/theme_admin_options.php:222
+msgid "Order of slider:"
+msgstr "滑块顺序："
+
+#: ../includes/theme_admin_options.php:237
+msgid "Single Post Settings"
+msgstr "日志选项"
+
+#: ../includes/theme_admin_options.php:240
+msgid "Whether to show Author Bio:"
+msgstr "是否显示作者信息："
+
+#: ../includes/theme_admin_options.php:241
+msgid "Select display Author Bio on single posts."
+msgstr "是否显示文章作者的相关信息"
+
+#: ../includes/theme_admin_options.php:247
+msgid "Whether to show related posts:"
+msgstr "是否显示相关文章："
+
+#: ../includes/theme_admin_options.php:248
+msgid "Select display Related Posts on single posts."
+msgstr "在文章底部是否显示相关文章"
+
+#: ../includes/theme_admin_options.php:254
+msgid "Related posts taxonomy:"
+msgstr "相关文章的分类法："
+
+#: ../includes/theme_admin_options.php:255
+msgid "Select a taxonomy for related posts."
+msgstr "相关文章分类法"
+
+#: ../includes/theme_admin_options.php:261
+msgid "Related posts display style:"
+msgstr "相关文章的样式："
+
+#: ../includes/theme_admin_options.php:262
+msgid "Select a display style for related posts."
+msgstr "相关文章的显示样式：缩略图和列表"
+
+#: ../includes/theme_admin_options.php:268
+msgid "Number of related posts to show:"
+msgstr "相关文章的数目："
+
+#: ../includes/theme_admin_options.php:269
+msgid "Enter a number for posts to show."
+msgstr "显示相关文章的数目"
+
+#: ../includes/theme_admin_options.php:282
+msgid "Global Heading Settings"
+msgstr "全局标题设置"
+
+#: ../includes/theme_admin_options.php:285
+msgid "Use custom heading settings:"
+msgstr "启用自定义标题设置"
+
+#: ../includes/theme_admin_options.php:286
+msgid "Check to use your custom heading settings. Your custom settings will only take effect if you enable this option."
+msgstr "启用自定义标题设置，下面的设置才会起作用"
+
+#: ../includes/theme_admin_options.php:291
+msgid "Heading Font:"
+msgstr "全局标题字体："
+
+#: ../includes/theme_admin_options.php:292
+msgid "Select a font for headings"
+msgstr ""
+
+#: ../includes/theme_admin_options.php:298
+msgid "Font Style:"
+msgstr "全局标题样式："
+
+#: ../includes/theme_admin_options.php:299
+msgid "Select a font style for headings. This style will be loaded only if available within the font."
+msgstr ""
+
+#: ../includes/theme_admin_options.php:305
+msgid "Heading Color:"
+msgstr "全局标题颜色："
+
+#: ../includes/theme_admin_options.php:306
+#: ../includes/theme_admin_options.php:330
+#: ../includes/theme_admin_options.php:383
+msgid "Choose a color for headings"
+msgstr ""
+
+#: ../includes/theme_admin_options.php:312
+msgid "Featured Area Heading Settings"
+msgstr "特选工具栏标题设置"
+
+#: ../includes/theme_admin_options.php:315
+msgid "Featured area Heading Font:"
+msgstr "特选工具栏标题字体："
+
+#: ../includes/theme_admin_options.php:316
+msgid "Select a font for featured area headings"
+msgstr ""
+
+#: ../includes/theme_admin_options.php:322
+msgid "Featured area Heading Font Style:"
+msgstr "特选工具栏标题样式："
+
+#: ../includes/theme_admin_options.php:323
+msgid "Select a font style for featured area headings. This style will be loaded only if available within the font."
+msgstr ""
+
+#: ../includes/theme_admin_options.php:329
+msgid "Featured area Heading Color:"
+msgstr "特选工具栏标题颜色："
+
+#: ../includes/theme_admin_options.php:335
+msgid "Blog post titles Settings"
+msgstr "文章标题设置"
+
+#: ../includes/theme_admin_options.php:338
+msgid "Post titles heading Font:"
+msgstr "文章标题字体："
+
+#: ../includes/theme_admin_options.php:339
+msgid "Select a font for blog post titles"
+msgstr ""
+
+#: ../includes/theme_admin_options.php:345
+msgid "Post titles font style:"
+msgstr "文章标题样式："
+
+#: ../includes/theme_admin_options.php:346
+msgid "Select a font style for post titles. This style will be loaded only if available within the font."
+msgstr ""
+
+#: ../includes/theme_admin_options.php:353
+msgid "Post Title Color:"
+msgstr "文章标题颜色："
+
+#: ../includes/theme_admin_options.php:354
+msgid "Choose a color for post titles"
+msgstr ""
+
+#: ../includes/theme_admin_options.php:359
+msgid "Post Title Hover Color:"
+msgstr "文章标题悬停颜色："
+
+#: ../includes/theme_admin_options.php:360
+msgid "Choose a hover color for post titles"
+msgstr ""
+
+#: ../includes/theme_admin_options.php:365
+msgid "Sidebar Heading Settings"
+msgstr "侧边栏标题设置"
+
+#: ../includes/theme_admin_options.php:368
+msgid "Sidebar Heading Font:"
+msgstr "侧边栏标题字体："
+
+#: ../includes/theme_admin_options.php:369
+msgid "Select a font for sidebar widget headings"
+msgstr ""
+
+#: ../includes/theme_admin_options.php:375
+msgid "Sidebar Heading Font Style:"
+msgstr "侧边栏标题样式："
+
+#: ../includes/theme_admin_options.php:376
+msgid "Select a font style for sidebar widget headings. This style will be loaded only if available within the font."
+msgstr ""
+
+#: ../includes/theme_admin_options.php:382
+msgid "Sidebar Heading Color:"
+msgstr "侧边栏标题颜色："
+
+#: ../includes/theme_admin_options.php:388
+msgid "Secondary Area Heading Settings"
+msgstr "页脚工具栏标题设置"
+
+#: ../includes/theme_admin_options.php:391
+msgid "Secondary area Heading Font:"
+msgstr "页脚工具栏标题字体："
+
+#: ../includes/theme_admin_options.php:392
+msgid "Select a font for secondary area widget headings"
+msgstr ""
+
+#: ../includes/theme_admin_options.php:398
+msgid "Secondary area Heading Font Style:"
+msgstr "页脚工具栏标题样式："
+
+#: ../includes/theme_admin_options.php:399
+msgid "Select a font style for secondary area widget headings. This style will be loaded only if available within the font."
+msgstr ""
+
+#: ../includes/theme_admin_options.php:405
+msgid "Secondary area Heading Color:"
+msgstr "页脚工具栏标题颜色："
+
+#: ../includes/theme_admin_options.php:406
+msgid "Choose a color for secondary area widget headings"
+msgstr ""
+
+#: ../includes/theme_admin_options.php:444
+msgid "Settings Saved. "
+msgstr "设置已经保存"
+
+#: ../includes/theme_admin_options.php:445
+msgid "settings reset."
+msgstr ""
+
+#: ../includes/theme_admin_options.php:450
+msgid "Theme Settings"
+msgstr "主题设置"
+
+#: ../includes/theme_admin_options.php:572
+msgid "Save changes"
+msgstr "保存"
+
+#: ../includes/theme_admin_options.php:578
+msgid "Reset all settings"
+msgstr "重置"
+
+#: ../includes/theme_admin_options.php:598
+msgid "Cat Name"
+msgstr "分类名"
+
+#: ../includes/theme_admin_options.php:598
+msgid "Cat ID"
+msgstr "分类 ID"
+
+#: ../includes/topbar.php:18
+#, php-format
+msgid "%s Welcome Back! "
+msgstr ""
+
+#: ../includes/twitter_widget.php:6
+msgid "Display your recent tweets with this custom widget."
+msgstr ""
+
+#: ../includes/twitter_widget.php:7
+msgid "Mibook Twitter Widget"
+msgstr "Mibook：Twitter"
+
+#: ../includes/twitter_widget.php:61
+msgid "Twitter Username:"
+msgstr ""
+
+#: ../includes/twitter_widget.php:62
+msgid "Your twitter username. Eg: <em>johndoe</em>"
+msgstr ""
+
+#: ../includes/twitter_widget.php:64
+msgid "Number of tweets to show:"
+msgstr ""
+
+#: ../includes/twitter_widget.php:67
+msgid "Text to appear before tweets:"
+msgstr ""
+
+#~ msgid "<b>1</b> Reply"
+#~ msgstr "<b>1</b>条回复"
+
+#~ msgid "Display Blog Name:"
+#~ msgstr "显示网站名字："
+
+#~ msgid "Read more &rarr;"
+#~ msgstr "阅读更多"

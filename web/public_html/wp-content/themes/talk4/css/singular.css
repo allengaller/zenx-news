@@ -1,0 +1,36 @@
+.fluidSidebar { width: 0; display:none; }
+.nav_ads { display:none; }
+.fluidCon { width: 100%; }
+ @media screen and (max-width:1036px) {
+.fluid {
+margin-right:0;
+border-radius:0;
+box-shadow:0;
+}
+.fluidSidebar {
+width: 22%;
+display:block;
+}
+.fluidCon {
+width: 78%;
+}
+#sidebar {
+display:none;
+}
+}
+ @media screen and (max-width:820px) {
+.fluid {
+margin-right:0;
+border-radius:0;
+box-shadow:0;
+}
+.fluidSidebar {
+display:none;
+}
+.fluidCon {
+width: 100%;
+}
+#sidebar {
+display:none;
+}
+}
